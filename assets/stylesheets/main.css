@@ -1,6 +1,6 @@
-body {
+/* body {
     background-color: #A2DED0;
-}
+} */
 
 .jumbotron {
     background-image:url('http://upload.wikimedia.org/wikipedia/commons/6/62/Drip_Coffee_Bangkok.jpg');
@@ -50,27 +50,20 @@ body {
     padding-top: 10px;
 }
 
-footer {
-    background-color: #D64541;
-    position: absolute;
-    width: 100%;
-    height: auto;
+.dark-grey-text {
+    color: #4F4F4F;
 }
 
-footer ul li {
-    /* display: inline-block; */
-    list-style: none;
-    float: right;
+.page-footer {
+    background-color: #ECEFF1;
 }
 
-footer p {
-    float: left;
+.footer-copyright {
+    background-color: #BDBFC1;
 }
 
-footer a,
-footer p {
-    color: #fff;
-    vertical-align: middle;
+.accent {
+    border-color: #AEC5BD;
 }
 
 @media screen and (max-width: 776px) {
