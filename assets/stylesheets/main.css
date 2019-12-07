@@ -32,10 +32,17 @@
     position: center;
 }
 
+.button {
+    text-align: center;
+}
+
 .order-button {
-    margin: auto;
-    width: 25%;
-    padding: 10px;
+    border-radius: 8px;
+    background-color: #AEC5BD;
+    font-weight: bold;
+    color: #323232;
+    border: none;
+    padding: 8px;
 }
 
 .features {
