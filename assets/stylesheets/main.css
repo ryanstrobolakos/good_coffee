@@ -14,10 +14,7 @@ body {
 }
 
 .jumbotron h1 {
-    position: absolute;
-    top: 18;
-    left: 0;
-    padding-left: 20px;
+    text-align: center;
     color: #F7FAFE;
 }
 
