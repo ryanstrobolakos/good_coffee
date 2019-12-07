@@ -18,6 +18,24 @@
     color: #F7FAFE;
 }
 
+.search:focus {
+    border: 2px solid #AEC5BD;
+    box-shadow: none;
+}
+
+.search-button {
+    background-color: #f8f9fa;
+    border: 1px solid #AEC5BD;
+    padding: 6px 10px;
+    border-radius: 4px;
+    color: #AEC5BD;
+}
+
+.search-button:hover {
+    background-color: #AEC5BD;
+    color: white;
+}
+
 .mission {
     background-color: #323232;
     color: #F7FAFE;
